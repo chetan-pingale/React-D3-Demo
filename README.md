@@ -1,5 +1,5 @@
-# react-fixed-data-table-example
-React Simple Fixed Data Table
+# recharts
+React D3 charts Examples
 
 - npm install
 - gulp
