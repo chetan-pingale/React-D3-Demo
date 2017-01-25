@@ -1,10 +1,10 @@
 import 'babel-core/polyfill';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Main from './Main';
+import Charts from './Charts';
 
 ReactDOM.render(
-    <Main />,
+    <Charts />,
     document.getElementById('root')
 );
 
